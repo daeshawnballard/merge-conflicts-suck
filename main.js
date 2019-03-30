@@ -1,2 +1,2 @@
 var num = 50; 
-var trust = "Hello Flatter Earth";
+var trust = "Hello Cats";
